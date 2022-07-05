@@ -60,12 +60,12 @@ body{
 .donate-header-text h2{
     text-align:center;
     margin-bottom: 30px;
-    font-size:40px;
+    font-size:60px;
     font-weight:700;
 }
 .donate-header-text p{
     line-height:1.5;
-    text-align: center;
+    text-align: justify;
 }
 .money-area-flex{
     display:flex;
