@@ -66,6 +66,7 @@ body{
 .donate-header-text p{
     line-height:1.5;
     text-align: justify;
+    color:#707070;
 }
 .money-area-flex{
     display:flex;
