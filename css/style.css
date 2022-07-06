@@ -76,6 +76,7 @@ body{
     padding:40px;
     background:#FAFAFA;
     margin:20px;
+    cursor:pointer;
 }
 .money-items h4{
     color:#707070;
